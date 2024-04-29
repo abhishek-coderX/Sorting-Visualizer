@@ -1,12 +1,7 @@
-# VisuAlgo
+# Sorting Algorithm Visualization
 
-## Algorithms
+This project visualizes various sorting algorithms to help understand how they work and compare their performance.
 
-### Bubble Sort
+## Live Site
 
-### Selection Sort
-
-### Insertion Sort
-
-## Architecture
-
+Check out the live visualization [here](https://sorting-visualizer-opal-rho.vercel.app/).
